@@ -1,0 +1,99 @@
+body{
+    background-color: #093055;
+}
+img{
+    width: 450px;
+    height: 300px;
+    margin-left: 70px;
+    margin-top: 25px;
+}
+.mytext{
+    color: rgb(226, 96, 96);
+    font-family: sans-serif;
+    font-size: 120px;
+    margin-left: 650px;
+    margin-top: -540px;
+}
+.mytext1{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-left: 790px;
+    margin-top: -390px;
+}
+.mytext2{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-left: 790px;
+    margin-top: -40px;
+}
+.mytext3{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-left: 790px;
+    margin-top: -40px;
+}
+.food{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 5px 10px;
+    width: 50vmax;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: -30px;
+    margin-left: 525px;
+    background-color: rgba(24, 24, 39, 0.548);
+}
+.sleep{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.limitTime{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 5px 10px;
+    width: 49vmax;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: -150px;
+    margin-left: -11px;
+    background-color: rgba(24, 24, 39, 0.548);
+}
+.journaling{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 5px 10px;
+    width: 50vmax;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 530px;
+    background-color: rgba(24, 24, 39, 0.548);
+}
+.bedTime{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.meditation{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 5px 10px;
+    width: 49vmax;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: -145px;
+    margin-left: -11px;
+    background-color: rgba(24, 24, 39, 0.548);
+}
+.routine{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 5px 10px;
+    width: 50vmax;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 530px;
+    background-color: rgba(24, 24, 39, 0.548);
+}
+.book{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
