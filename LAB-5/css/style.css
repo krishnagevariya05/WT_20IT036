@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    
+    padding: 12px;
+    width: 643px;
+    display: inline-block;
+    float: left;
+}
+.navigation{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    padding: 12px;
+    width: 620px;
+    display: inline-block;
+
+}
+.header{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    padding: 11px;
+    width: 1280px;
+    height: 100px;
+   
+}
+.text{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    width: 1280px;
+    height: 80px;
+}
+.b1{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    width: 400px;
+    height: 250px;
+    
+}
+.b2{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    margin-top: -60px;
+    padding: 10px;
+    margin-left: 439px;
+    margin-top: -249px;
+    width: 400px;
+    height: 250px;
+    
+}
+.b3{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    margin-left: 877px;
+    margin-top: -249px;
+    padding: 10px;
+    width: 400px;
+    height: 250px;
+    
+}
+.footer{
+    border: none;
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    width: 1280px;
+    height: 80px;
+}
