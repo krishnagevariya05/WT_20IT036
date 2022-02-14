@@ -2,5 +2,5 @@
 ## LB2
 ### test
 
-[Lab-1](https://www.google.com)
+[Lab-1](https://krishnagevariya05.github.io/WT_20IT036/)
 
