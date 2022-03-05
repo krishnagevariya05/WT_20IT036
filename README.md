@@ -4,7 +4,7 @@
 
 [Lab-1](https://krishnagevariya05.github.io/WT_20IT036/)
 
-## LB2
+## LB3
 
-[Lab-2](https://krishnagevariya05.github.io/WT_20IT036/)
+[Lab-3](https://krishnagevariya05.github.io/WT_20IT036/)
 
