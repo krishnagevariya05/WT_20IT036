@@ -24,3 +24,7 @@
 
 [Lab-7](https://krishnagevariya05.github.io/WT_20IT036/LAB-7/index.html)
 
+## LB8
+
+[Lab-8](https://krishnagevariya05.github.io/WT_20IT036/LAB-8/index.html)
+
