@@ -12,3 +12,7 @@
 
 [Lab-4](https://krishnagevariya05.github.io/WT_20IT036/LAB-4/TT.html)
 
+## LB5
+
+[Lab-5](https://krishnagevariya05.github.io/WT_20IT036/LAB-5/index.html)
+
