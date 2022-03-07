@@ -10,5 +10,5 @@
 
 ## LB4
 
-[Lab-4](https://krishnagevariya05.github.io/WT_20IT036/LAB-4/index.html)
+[Lab-4](https://krishnagevariya05.github.io/WT_20IT036/LAB-4/TT.html)
 
