@@ -6,5 +6,5 @@
 
 ## LB3
 
-[Lab-3](https://krishnagevariya05.github.io/WT_20IT036/)
+[Lab-3](https://krishnagevariya05.github.io/WT_20IT036/LAB-3/index.html)
 
