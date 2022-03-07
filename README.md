@@ -1,11 +1,11 @@
 # WT_20IT036
-### test
+## LB1
 
 [Lab-1](https://krishnagevariya05.github.io/WT_20IT036/)
 
 ## LB2
 
-[Lab-2](https://krishnagevariya05.github.io/WT_20IT036/LAB-2/SRH.html)
+[Lab-2](https://krishnagevariya05.github.io/WT_20IT036/LAB-2/SRF.html)
 
 ## LB3
 
