@@ -32,3 +32,7 @@
 
 [Lab-9](https://krishnagevariya05.github.io/WT_20IT036/LAB-9/index.html)
 
+## LB10
+
+[Lab-10](https://krishnagevariya05.github.io/WT_20IT036/LAB-10/index.html)
+
