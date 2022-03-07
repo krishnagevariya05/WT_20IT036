@@ -20,3 +20,7 @@
 
 [Lab-6](https://krishnagevariya05.github.io/WT_20IT036/LAB-6/index.html)
 
+## LB7
+
+[Lab-7](https://krishnagevariya05.github.io/WT_20IT036/LAB-7/index.html)
+
