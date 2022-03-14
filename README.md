@@ -39,3 +39,7 @@
 
 [Lab-10](https://krishnagevariya05.github.io/WT_20IT036/LAB-10/index.html)
 
+## LB12
+
+[Lab-12](https://krishnagevariya05.github.io/WT_20IT036/LAB-12/index.html)
+
