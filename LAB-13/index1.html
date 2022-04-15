@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="./css/style1.css">
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+        <h2>Javascript Login Form</h2>
+        <form action="abc.php" id="form_id" method="post" name="myform" >
+        <label>User Name :</label>
+        <input type="text" name="username" id="username"/>
+        <p class="err_text" id="err_t" style="display: none;">Enter Username!!!</p><br>
+        <label>Password :</label>
+        <input type="password" name="password" id="password"/>
+        <p class="err_pass" id="err_p" style="display: none;">Enter Password!!!</p>
+        <input type="submit" value="Login" id="submit" onclick="return validate()">
+        </form>
+        <script src="./js/myjs1.js"></script>
+</body>
+</html>
