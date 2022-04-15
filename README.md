@@ -47,3 +47,15 @@
 
 [Lab-12](https://krishnagevariya05.github.io/WT_20IT036/LAB-12/index.html)
 
+## LB13(1)
+
+[Lab-13](https://krishnagevariya05.github.io/WT_20IT036/LAB-13/index.html)
+
+## LB13(2)
+
+[Lab-13](https://krishnagevariya05.github.io/WT_20IT036/LAB-13/index1.html)
+
+## LB14
+
+[Lab-14](https://krishnagevariya05.github.io/WT_20IT036/LAB-14/index.html)
+
